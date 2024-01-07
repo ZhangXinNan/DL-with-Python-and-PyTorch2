@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 logs/
 __pycache__/
+data/
 #*.ckpt
 #*.npy
